@@ -1,11 +1,12 @@
-**Hi there 👋, I'm Prashik Darunde**
+## Hi there 👋, I'm Prashik Darunde
+
 🎓 MSc Materials Science | Imperial College London 🔬 Researcher in Data-Driven Materials Discovery ⚡ Passionate about Machine Learning, Computational Chemistry, and Energy Storage Technologies
 
 🚀 **About Me** 🔍 Currently working on Sodium-Ion Battery Cathode Discovery using Machine Learning and Density Functional Theory (DFT).
 
 💡**Focused on** materials informatics, sustainable energy solutions, and advanced computational modeling.
 
-🛠️ Skilled in Python, data science, SolidWorks, AutoCAD, and experimental materials characterization.
+🛠️ **Skilled in** Python, data science, SolidWorks, AutoCAD, and experimental materials characterization.
 
 🛠️ **Tech Stack Languages**: Python, MATLAB, SQL
 
