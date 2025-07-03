@@ -12,7 +12,7 @@
 
 **Tools**: SMACT, Chameleon, MACE-MP
 
-**Data Science**: scikit-learn, pandas, matplotlib
+**Data Science**: pandas, matplotlib
 
 **Modeling & Simulation**: SolidWorks, AutoCAD
 
