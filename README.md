@@ -10,9 +10,9 @@ Hi there 👋, I'm Prashik Darunde
 
 🛠️ Tech Stack Languages: Python, MATLAB, SQL
 
-Tools: SMACT, Chameleon, MACE-MP, VASP, Quantum ESPRESSO
+Tools: SMACT, Chameleon, MACE-MP
 
-Data Science: scikit-learn, XGBoost, pandas, matplotlib
+Data Science: scikit-learn, pandas, matplotlib
 
 Modeling & Simulation: SolidWorks, AutoCAD
 
