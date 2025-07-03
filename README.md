@@ -1,29 +1,28 @@
-Hi there 👋, I'm Prashik Darunde
-
+**Hi there 👋, I'm Prashik Darunde**
 🎓 MSc Materials Science | Imperial College London 🔬 Researcher in Data-Driven Materials Discovery ⚡ Passionate about Machine Learning, Computational Chemistry, and Energy Storage Technologies
 
-🚀 About Me 🔍 Currently working on Sodium-Ion Battery Cathode Discovery using Machine Learning and Density Functional Theory (DFT).
+🚀 **About Me** 🔍 Currently working on Sodium-Ion Battery Cathode Discovery using Machine Learning and Density Functional Theory (DFT).
 
-💡 Focused on materials informatics, sustainable energy solutions, and advanced computational modeling.
+💡**Focused on** materials informatics, sustainable energy solutions, and advanced computational modeling.
 
 🛠️ Skilled in Python, data science, SolidWorks, AutoCAD, and experimental materials characterization.
 
-🛠️ Tech Stack Languages: Python, MATLAB, SQL
+🛠️ **Tech Stack Languages**: Python, MATLAB, SQL
 
-Tools: SMACT, Chameleon, MACE-MP
+**Tools**: SMACT, Chameleon, MACE-MP
 
-Data Science: scikit-learn, pandas, matplotlib
+**Data Science**: scikit-learn, pandas, matplotlib
 
-Modeling & Simulation: SolidWorks, AutoCAD
+**Modeling & Simulation**: SolidWorks, AutoCAD
 
-📂 Featured Project 📊 Data-Driven Screening of Sodium-Ion Cathodes Leveraging machine learning and computational methods to accelerate the discovery of high-performance sodium-ion battery materials.
+📂 **Featured Project** : Data-Driven Screening of Sodium-Ion Cathodes Leveraging machine learning and computational methods to accelerate the discovery of high-performance sodium-ion battery materials.
 
-🌱 Currently Learning Advanced DFT Modeling
+🌱 **Currently Learning Advanced DFT Modeling**
 
 Graph Neural Networks for materials
 
 High-Performance Computing (HPC) workflows
 
-📫 Let's Connect LinkedIn: https://www.linkedin.com/in/prashik-darunde/
+📫 **Let's Connect LinkedIn**: https://www.linkedin.com/in/prashik-darunde/
 
-Email: [phd124@ic.ac.uk]
+**Email**: [phd124@ic.ac.uk]
