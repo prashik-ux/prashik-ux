@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there 👋, I'm Prashik Darunde
 
-<!--
-**prashik-ux/prashik-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Materials Science | Imperial College London 🔬 Researcher in Data-Driven Materials Discovery ⚡ Passionate about Machine Learning, Computational Chemistry, and Energy Storage Technologies
 
-Here are some ideas to get you started:
+🚀 About Me 🔍 Currently working on Sodium-Ion Battery Cathode Discovery using Machine Learning and Density Functional Theory (DFT).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Focused on materials informatics, sustainable energy solutions, and advanced computational modeling.
+
+🛠️ Skilled in Python, data science, SolidWorks, AutoCAD, and experimental materials characterization.
+
+🛠️ Tech Stack Languages: Python, MATLAB, SQL
+
+Tools: SMACT, Chameleon, MACE-MP, VASP, Quantum ESPRESSO
+
+Data Science: scikit-learn, XGBoost, pandas, matplotlib
+
+Modeling & Simulation: SolidWorks, AutoCAD
+
+📂 Featured Project 📊 Data-Driven Screening of Sodium-Ion Cathodes Leveraging machine learning and computational methods to accelerate the discovery of high-performance sodium-ion battery materials.
+
+🌱 Currently Learning Advanced DFT Modeling
+
+Graph Neural Networks for materials
+
+High-Performance Computing (HPC) workflows
+
+📫 Let's Connect LinkedIn: https://www.linkedin.com/in/prashik-darunde/
+
+Email: [phd124@ic.ac.uk]
